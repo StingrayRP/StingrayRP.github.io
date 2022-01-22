@@ -7,4 +7,4 @@ Ce wiki a pour but de vous expliquer en détail comment fonctionne les innovatio
 vous y trouverez des liens qui vous enverront vers des pages précises ainsi que des images pour les illustrer
 nous espérons que cela vous aidera dans vôtres aventure sur le serveur.
 
-![alt](https://cdn.discordapp.com/attachments/720701124755062864/934466004589891624/logostingray2.png =100x100)
+![logostingray2](https://user-images.githubusercontent.com/98222041/150650197-3bb3c208-cbaf-4d08-bf8e-91b4be662aef.png)
